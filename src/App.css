@@ -59,6 +59,10 @@ button:hover {
   border: 1px solid rgba(211, 211, 211, 0.4) !important;
 }
 
+main {
+  justify-content: center;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 80px);
